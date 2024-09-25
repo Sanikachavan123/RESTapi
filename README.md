@@ -15,7 +15,7 @@ This project is a hands-on implementation of a RESTful API using Spring Boot. It
       <li><strong>DELETE:</strong> Remove resources.</li>
     </ul>
   </li>
-  <li><strong>Exception Handling:</strong> Well-structured exception handling for clean and clear error responses with appropriate status codes (4xx, 5xx).</li>
+  <li><strong>Exception Handling:</strong> Well-structured exception handling for clean and clear error responses with appropriate status codes.</li>
   <li><strong>HTTP Status Codes:</strong> Consistent usage of HTTP status codes (200 OK, 201 Created, 400 Bad Request, 404 Not Found, etc.).</li>
   <li><strong>Testing:</strong> Thoroughly tested with <strong>Postman</strong> for smooth integration and functionality validation.</li>
 </ul>
